@@ -2,7 +2,7 @@
 #include <Python.h>
 
 /**
- * print_python_bytes - Bytes info printed
+ * print_python_bytes - Prints bytes info
  *
  * @p: Python Obj
  *
@@ -44,7 +44,7 @@ void print_python_bytes(PyObject *p)
 }
 
 /**
- * print_python_list - List info printed
+ * print_python_list - Prints list info
  *
  * @p: Python Obj
  *
